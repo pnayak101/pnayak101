@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pnayak101
+- 👋 Hi, I’m Puneet Nayak, a Full Stack Java Developer.
 - 👀 I’m interested in learning new techs and using them to improve my skills which contributes in a good project.
 - 🌱 I’m currently learning Docker.
 - 💞️ I’m looking to collaborate on any type of proect related to JAVA Full Stack Development.
